@@ -64,6 +64,6 @@ We're AI-native by default, not AI as an afterthought — agents, RAG, and autom
 
 [**Book a call →**](https://cocoontrix.com/contact#book)
 
-<sub>© Cocoontrix · Pune, Maharashtra, India</sub>
+<sub>© Cocoontrix · Ahilyanagar, Maharashtra, India</sub>
 
 </div>
