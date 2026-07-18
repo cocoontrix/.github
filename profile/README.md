@@ -3,10 +3,12 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cocoontrix/.github/main/profile/assets/logo-silk.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cocoontrix/.github/main/profile/assets/logo-ink.svg">
-  <img alt="Cocoontrix" src="https://raw.githubusercontent.com/cocoontrix/.github/main/profile/assets/logo-ink.svg" width="360">
+  <img alt="Cocoontrix" src="https://raw.githubusercontent.com/cocoontrix/.github/main/profile/assets/logo-ink.svg" width="100">
 </picture>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:14130E,50:C77F3E,100:14130E&height=3&section=header" width="100%">
+
+<br><br>
 
 **Transforming Businesses Through Software, AI & Innovation**
 
