@@ -22,9 +22,10 @@ Premium, AI-native digital product studio. We help founders and growing business
 
 <br>
 
-## What we build
 
 <div align="center">
+
+  ## What we build
 
 | | | |
 |:---:|:---:|:---:|
@@ -35,16 +36,19 @@ Premium, AI-native digital product studio. We help founders and growing business
 </div>
 
 <br>
-
+<div align="center">
+  
 ## How we work
 
 We're AI-native by default, not AI as an afterthought — agents, RAG, and automation are core building blocks in everything we ship, not a bolt-on. Senior hands on every project: the people scoping the work are the people building it. No junior guesswork handed to clients.
+</div>
 
 <br>
 
-## Stack we work in
 
 <div align="center">
+
+## Stack we work in
 
 <img src="https://skillicons.dev/icons?i=ts,astro,react,nodejs,go,supabase,postgres,docker,kubernetes,cloudflare,tailwind" />
 
